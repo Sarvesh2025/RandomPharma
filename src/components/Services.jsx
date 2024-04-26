@@ -1,6 +1,6 @@
 const Services = () => {
   return (
-    <section
+    <div
       id="services"
       className="services-section mb-6 bg-white rounded-lg p-6"
     >
@@ -44,7 +44,7 @@ const Services = () => {
           </p>
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 export default Services;

@@ -1,0 +1,4 @@
+export const img1 =
+    "https://imgs.search.brave.com/Yq39ss1ebzCwOhM3XsVGq6ipdPJKT5IzcS1KSiRQ804/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTg2/MDkxNzk2L3Bob3Rv/L3BoYXJtYWNldXRp/Y2FsLWZhY3Rvcnkt/d29ya2VyLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YWG4w/WDhhSmZmbTFuWHU4/MHBPRUFiUjdNVVA1/Vm1uTmR5dk56MjEz/clp3PQ";
+export const img2 =
+  "https://imgs.search.brave.com/tbNkheviRzMdv1siPBSxiaR-SNLy7J2qHeLOAWP-LIk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTI5/NDQ2NTMwOC9waG90/by9kb2N0b3ItZ2l2/aW5nLWNvdmlkLXZh/Y2NpbmUtdG8tc2Vu/aW9yLXdvbWFuLndl/YnA_Yj0xJnM9MTcw/NjY3YSZ3PTAmaz0y/MCZjPTVSVGJMdkdT/YUd6THp1Tkpuc3Bo/MEJMczdqVzBzOENw/WkE5bWtyRVlfSkU9";
